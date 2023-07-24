@@ -1,0 +1,43 @@
+#carousel img {
+    height: 760px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 48px;
+    color: #edfadd;
+}
+
+.navbar {
+    background-color: #7dce27;
+}
+
+.section-title {
+    font-family: 'Pangolin', cursive;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #edfadd;
+    color: #7dce27;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand:hover,
+.nav-produtos .nav-link.active:hover {
+    color: #edfadd;
+}
+
+.navbar-toggler {
+    background-color: #edfadd;
+}
+
+#sobre-caozito {
+    background-color: #edfadd;
+}
+
+.text-colored {
+    color: #7dce27;
+}
