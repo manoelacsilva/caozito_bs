@@ -34,10 +34,16 @@ body {
     background-color: #edfadd;
 }
 
-#sobre-caozito {
+#sobre-caozito,
+#produtos {
     background-color: #edfadd;
 }
 
 .text-colored {
     color: #7dce27;
 }
+
+#combos {
+    background-color: #dff5c5;
+}
+
